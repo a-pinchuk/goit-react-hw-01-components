@@ -10,6 +10,8 @@ export const ProfileWrap = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 15px;
+  margin-top: 15px;
 `;
 
 export const Avatar = styled.img`
